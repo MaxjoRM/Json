@@ -19,11 +19,13 @@
 "persons":[
 {
 "id":"1",
-"name":"maxjo"
+"name":"maxjo",
+ "country":"usa"
 },
 {
 "id":"2",
-"name":"maxjo"
+"name":"steve knockout"
+ "country":"usa"
 }
 
 ]  
