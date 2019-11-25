@@ -1,14 +1,11 @@
-[ 
-   { 
-      "name":"DataBase Administration",
-      "description":"class of databases"
-   },
-   { 
-      "name":"programming language",
-      "description":"class of language"
-   },
-   { 
-      "name":"Networking",
-      "description":"virtual servers"
-   }
-]
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
