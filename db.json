@@ -1,32 +1,41 @@
 {
-  "class": [
-    {
-      "id": 1,
-      "name": "Data Base Administration",
-"description": "DML, DDL"
-    },
-    {
-      "id": 2,
-"name": "Networking",
-      "description": "Virtual Servers"
-    },
-    {
-      "id": 3,
-"name": "Programming Lenguage",
-      "description": "C#, JavaScript"
-}
-  ],
-"persons":[
-{
-"id":"1",
-"name":"maxjo",
- "country":"usa"
-},
-{
-"id":"2",
-"name":"steve knockout",
- "country":"usa"
-}
-
-]  
+    "class": [
+        {
+            "id": 1,
+            "name": "Data Base Administration",
+            "description": "DML, DDL"
+        },
+        {
+            "id": 2,
+            "name": "Networking",
+            "description": "Virtual Servers"
+        },
+        {
+            "id": 3,
+            "name": "Programming Lenguage",
+            "description": "C#, JavaScript"
+        },
+        {
+            "id": 4,
+            "name": "CMS WordPress",
+            "description": "CSS, HTML 5, JavaScript"
+        },
+        {
+            "id": 5,
+            "name": "Testing Web Sites",
+            "description": "WiresShark"
+        }
+    ],
+    "persons": [
+        {
+            "id": "1",
+            "name": "maxjo",
+            "country": "usa"
+        },
+        {
+            "id": "2",
+            "name": "steve knockout",
+            "country": "usa"
+        }
+    ]
 }
